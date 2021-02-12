@@ -8,5 +8,5 @@ func New() *Impl {
 }
 
 func (i Impl) String() string {
-	return "v2"
+	return "v2.0.1"
 }
